@@ -103,8 +103,8 @@ After the device connects to your Wi-Fi:
 1. **Reconnect to the device** (open its web interface again)
 2. Enter:
 
-   * **Latitude** (широта)
-   * **Longitude** (довгота)
+   * **Latitude** 
+   * **Longitude** 
    * **Telegram `botToken`**
    * **Telegram `chatId`**
 3. Save settings
@@ -125,6 +125,16 @@ After the device connects to your Wi-Fi:
   * OpenWeather API key is valid
   * Telegram bot token and chat id are correct
   * Device has stable power
+
+---
+
+## Photo
+
+<p align="center">
+  <img src="device photo/photo_2025-12-15_13-57-48.jpg" >
+  <img src="device photo/photo_2025-12-15_13-57-49.jpg" >
+  <img src="device photo/photo_2025-12-15_13-57-51.jpg" >
+</p>
 
 ---
 
