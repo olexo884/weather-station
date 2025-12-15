@@ -34,8 +34,15 @@ Smart device based on **ESP32** for monitoring **indoor climate conditions and a
 
 ## 🧩 Hardware (Schematic & PCB)
 
-📐 **EasyEDA / OSHWLab link:**  
+📐 **EasyEDA link:**  
 https://oshwlab.com/olexo884/diploma
+
+---
+
+## 🎨 User Interface (UI)
+
+📐 **Figma link:**  
+https://www.figma.com/design/dskFPgoI2V18Ywhwl1imvP/ESP32-Smart-Climate---Air-Quality-Monitor
 
 ---
 
